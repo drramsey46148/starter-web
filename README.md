@@ -4,7 +4,11 @@ This is a simple website project showing how to use git and github.
 
 ## Introduction
 
+
+
 ## Purpose
+
+As stated, the main purpose is to provide sample examples.
 
 ## Deployment
 
