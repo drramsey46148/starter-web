@@ -14,5 +14,9 @@ As stated, the main purpose is to provide sample examples.
 
 Sample website with plenty of files for demos
 
+## How to contribute
+
+please fork this repo and then issue pull request for review.
+
 ### Copyright
 2023 training
