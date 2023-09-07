@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Derek Ramsey drramsey@gmail.com
 
 # THANKS
 
