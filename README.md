@@ -13,3 +13,6 @@ As stated, the main purpose is to provide sample examples.
 ## Deployment
 
 Sample website with plenty of files for demos
+
+### Copyright
+2023 training
