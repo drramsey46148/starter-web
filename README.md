@@ -4,7 +4,7 @@ This is a simple website project showing how to use git and github.
 
 ## Introduction
 
-Introduction text...
+Introduction text...adding additional text
 
 ## Purpose
 
